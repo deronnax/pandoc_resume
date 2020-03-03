@@ -1,80 +1,91 @@
-Mathieu Dupuy
-=============
+# Mathieu Dupuy
 
-DevOp Python
-------------
+## Développeur Python
 
 --------------------   ----------------------
-deronnax@gmail.com         102 rue saint-Maur
-06.83.71.50.20                    75011 Paris
+deronnax@gmail.com                     31 ans
+06.83.71.50.20            58 rue de Montreuil
+[github.com/deronnax]             75011 Paris
 --------------------   ----------------------
 
-Compétences
------------
+[github.com/deronnax]: https://github.com/deronnax
 
-* langages: **Python**, **javascript**, C, C++, shell, asm
-* cadriciels: **Django**, **SQlAlchemy**, Qt, GTK
-* bases de données: **MySQL**, SQLite, Redis
-* outils: **Git**, **Docker**, PyCharm
-* systèmes: **Ubuntu**, Fedora, Windows
-* divers: **HTTP/REST**, **tests**, SOAP, bas-niveau, performances, traduction
-* langues: **anglais** (courant, nombreux séjours à l’étranger, TOEIC 770/990 en 2009), allemand scolaire
+## Compétences
 
-Éducation
----------
+* langages : **Python**, **Javascript**, HTML, CSS, C, C++, assembleur
+* cadriciels : **Django**, **Vue.js**, SQLAlchemy, Qt, GTK
+* bases de données : **MySQL**, SQLite, Redis
+* outils : **Git**, **Docker**, Github, Gitlab, IntelliJ/PyCharm
+* ops : Nginx, Uwsgi, Fabric
+* systèmes : **Ubuntu Server**, Fedora, Windows
+* divers : **HTTP/REST**, **tests**, OAuth, bas-niveau/performances
+* langues : **anglais** (courant, nombreux séjours à l’étranger, TOEIC 770/990 en 2009), allemand scolaire
 
-2011    **Diplome d’expert en informatique**. Epitech, Paris
+## Éducation
 
-2006    **Baccalauréat scientifique**. Lycée François Couperin, Fontainebleau
+2011    **Diplôme d’expert en informatique**. Epitech, Paris
+
+2006    **Baccalauréat scientifique**, option mathématiques. Lycée François Couperin, Fontainebleau
 
 ## Expériences principales
 
-## septembre 2019 : Invivo (via Octo Technology), **développeur NodeJS**
+### septembre 2019: Invivo (via Octo Technology), **développeur Node.JS**
 
-Développement d'une marketplace en micro-services en n
+Développement back-end et front-end d'une marketplace pour l'agriculture en micro-services en Node.js et Vue.JS dans une équipe de 40 personnes (Node.js, REST, MySQL, OAuth, Vue.js, HTML/CSS)
 
-### septembre 2018 - aout 2019: Club Med (via Octo Technology), **développeur NodeJS**
+### septembre 2018 - août 2019: Club Med (via Octo Technology), **développeur Node.JS**
 
-Développement d’une API REST frontale exposant une interface unifée, simplifiée et cohérente pour une multitude backends métier historiques (dont en Cobol)
+Développement d’une API REST frontale en Node.js exposant une API unifiée, simplifiée, cohérente et rapide interfaçant une multitude de backends métier historiques (Node.js, REST, Docker, Gherkin)
 
 ### juin 2013 - octobre 2017: SFR (via Alten), **devop Python**
 
-Développement de services web REST et de sites web pour les besoins internes de SFR au sein du département *Recherche & Développement Interne*
+<!---Au sein du services *Recherche & développement interne* : --->
 
-* Ajout de plusieurs backend sur la plateforme d'intermédiation des services et de gestion des options et packages des clients mobiles
-* Développement d’une solution de pilotage du campus SFR en Python/Django, adossé à l’Exchange de l'entreprise et de plusieurs site web pour administrer les différentes ressources du campus
-* modification du serveur Carddav open-source *Radicale* pour d'améliorer les performances afin de servir 5.000 fiches contacts des collaborateurs SFR
+* Ajout de plusieurs backends sur la plate-forme d'intermédiation des services et de gestion des options et packages des clients mobiles, en Python
+* Développement d’une solution de pilotage du campus SFR en Python/Django, adossée à l’Exchange de l'entreprise et de plusieurs sites web pour administrer les différentes ressources du campus
+* Contributions à de nombreux logiciels open-source pour répondre à nos besoins. Entre autre [Radicale], serveur CardDav, modifié pour améliorer ses performances afin de le rendre capable de servir les données de contacts des 5000+ collaborateurs de SFR, et [Fabtools], outil de déploiement, auquel des fonctionnalités correspondantes à nos usecases ont été rajoutées
 
-## Expériences
+(Python, Django, MySQL, SQLAlchemy, REST, HTML/CSS)
+
+[Radicale]: https://radicale.org
+[Fabtools]: https://github.com/fabtools/fabtools
+
+## Autres expériences
 
 ### mai 2012 - janvier 2013: Generals Electrics (via Alten), **développeur C++**
 
-* Maintenance et évolution du logiciel d’acquisition et de modelisation 3D d’imagerie médicale
+* Maintenance et évolution du logiciel d’acquisition et de modélisation 3D d’imagerie médicale
 
-### mars 2011 - mars 2012 : Rentabiliweb, **développeur Python/C++**
+### mars 2011 - mars 2012: Rentabiliweb, **développeur Python/C++**
 
 * Développement d’un outil de collecte de fichiers de logs de serveurs téléphoniques en C++, de traitement et d’insertion dans une base SQL en temps réel
-* Développement d’un client d’échange de large volume de données avec une BDD téléphonique en python et SQL
-* Développement d’outils python de traitement, statistiques et valorisation de large volume de données téléphoniques
+* Développement d’un système Python de synchronisation des données de lignes client avec le SI de l'autorité de portabilité des numéros fixes
+* Développement d’outils Python de traitement, statistiques et valorisation de larges volumes de données téléphoniques
 
 ### octobre 2010 - février 2011: Assystem, **développeur C++** (alternance)
 
-* Développement d’un logiciel en C++/Qt d’assistance à la conduite avec une équipe d’ingénieurs
-en traitement du signal. Refactoring et simplification de code et de GUI en Java
+* Développement d’un logiciel en C++/Qt d’assistance à la conduite avec une équipe d’ingénieurs en traitement du signal pour Renault
 
 ### janvier - juin 2010: Smartjog, **développeur Python** (alternance)
 
-* Maintenance et correction d'outils de monitoring du maillage mondiale de serveurs CDN de flux vidéos
+* Maintenance et correction d'outils Python de monitoring et de gestion du maillage mondial de serveurs CDN de flux vidéos maison
 
 ### juin - octobre 2009: Mandriva, **développeur C++** (stage)
 
-* Développement de plugins/patchs en C++/Qt autour du projet sémantique Nepomuk du bureau KDE afin d’étendre le bureau avec des capacités sémantiques
+* Développement de plugins/patchs en C++/Qt autour du projet [Nepomuk] afin de transformer le bureau KDE en [poste de travail sémantique]
 * Développement et conception d’un outil d’édition de tags sémantiques en C++/Qt
 * Empaquetage RPM
 
-Divers
-------
+[Nepomuk]: https://en.wikipedia.org/wiki/NEPOMUK_(software)
+[poste de travail sémantique]: https://fr.wikipedia.org/wiki/Poste_de_travail_s%C3%A9mantique
 
-* novembre 2016 - mars 2017: **télétravail depuis l’Asie** (Thaïlande majoritairement)
-* juin 2015 - juin 2016 : **Working Holiday Visa** en Australie
-* octobre 2018 : **traduction française de la documentation python**
+## Divers
+
+* septembre 2018 - aujourd'hui : **traduction de la documentation Python en français, core member de l'équipe de traduction**
+* septembre 2018 - aujourd'hui : contribution à la documentation Python
+* 2013 - 2017 : **contribution à divers projets open-source Python : uwsgi, django-tastypie, radicale, fabtools**
+
+* septembre 2018 - aujourd'hui : formations bénévoles à Python et à la traduction de la documentation
+* novembre 2016 - mars 2017 : télétravail depuis l’Asie pour SFR (Thaïlande majoritairement)
+* juin 2015 - juin 2016 : Working Holiday Visa en Australie
+* running : semi-marathon de Boulogne-Billancourt en 1h47 (novembre 2018)

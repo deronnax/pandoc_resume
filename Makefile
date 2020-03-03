@@ -2,8 +2,9 @@ OUT_DIR=output
 IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne
+SHELL = sh -xv
 
-all: html pdf docx rtf
+all:  pdf
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \

@@ -14,15 +14,16 @@ body {
     max-width: 800px;
     margin: auto;
     background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    padding: 8px 8px 8px 8px;
 }
 
 /* Title of the resume */
 h1 {
-    font-size: 55px;
+    margin-top: 0px;
+    font-size: 40px;
     color: #757575;
     text-align:center;
-    margin-bottom:15px;
+    margin-bottom:5px;
 }
 h1:hover {
     background-color: #757575;
@@ -34,6 +35,7 @@ h1:hover {
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
     color: #397249;
+    margin-bottom: 5px;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -50,6 +52,11 @@ h2:hover {
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
+
+h3 { 
+    font-weight:normal; 
+    margin-bottom: 8px;
+    }
 
 /* Definitions */
 dt {

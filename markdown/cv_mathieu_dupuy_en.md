@@ -39,13 +39,12 @@ Development of a front-end public REST API in Node.js exposing a unified, simpli
 
 ### June 2013 - October 2017: SFR (via Alten), **Python devop**
 
-Development of REST web services and websites for SFR's internal needs within the *Research & internal development* department (Python, Django, SQLAlchemy, MySQL, REST, HTML/CSS)
-
 * Addition of many REST/SOAP connectors to SFR's commercial partners' service platform, in charge of managing options, packages and extras of SFR's customers
 * Development of a SFR campus management solution in Python/Django, backed by the company's Exchange and several websites to administer various campus resources
-* contribution to many open-source softwares to fit our needs, including some to **[Radicale]**, open-source CardDav server, to improve its performances to make it capable to serve the contacts data of the 5000+ SFR's collaborators
+* Contributions to many open-source softwares to fit our needs, e.g some to the open-source CardDav server Radicale to improve its performances to make it able to serve the contacts data of the 5000+ SFR's collaborators and many improvements to Fabtools, the deployment tool we used
 
-[Radicale]: https://www.radicale.org
+<!--- within the *Research & internal development* department --->
+(Python, Django, SQLAlchemy, MySQL, REST, HTML/CSS, Fabric, Uwsgi, Nginx, Ubuntu Server)
 
 ## Other experiences
 
