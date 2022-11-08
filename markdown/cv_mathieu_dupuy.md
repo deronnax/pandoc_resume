@@ -14,13 +14,13 @@ deronnax@gmail.com               19 août 1988
 
  * langages : **Python**, Ruby, Javascript, Shell, C/C++
  * cadriciels : **Django**, Ruby on Rails
- * bases de données : PostgreSQL, MySQL, Redis
- * ops : Docker, Kubernetes, Terraform, Heroku
- * observabilité : Datadog, New Relic, Sentry
- * divers : **HTTP/REST**, **Git**, GitHub, Gitlab, PyCharm, tests, connaissances bas-niveau
- * notions : AWS, Ansible, ElasticSearch, Kibana, HTML, React
- * langues : **anglais** (courant, échanges totalement en anglais à Doctolib, nombreux séjours à
-l’étranger, TOEIC 770/990 en 2009), allemand scolaire
+ * bases de données : **PostgreSQL**, MySQL, Redis, SQlite
+ * ops : **Docker**, **Heroku**, Kubernetes
+ * observabilité : Datadog, Sentry, New Relic
+ * divers : **HTTP/REST**, **Git**, **GitHub**, Gitlab, PyCharm, tests, connaissances bas-niveau
+ * notions : Flask, SQLAlchemy, AWS, Ansible, Terraform, ElasticSearch, Kibana, Prometheus, OAuth
+ * langues : **anglais** courant (échanges totalement en anglais à Doctolib, nombreux séjours à
+l’étranger, TOEIC 930/990 en 2022), allemand scolaire
 
 ## Éducation
 
@@ -83,9 +83,12 @@ données de contact des 5000+ collaborateurs de SFR
 
 ## Divers
 
- * septembre 2018 - novembre 2020 : **traduction de la documentation Python en français**, core member de l’équipe de traduction. Formations bénévoles à Python et à la traduction de la documentation
- * **contribution à divers projets open-source Python** : uwsgi, django-tastypie, radicale, fabtools
- * contributions à la documentation officielle de Python
- * semi-marathon de Boulogne-Billancourt en 1h47, 20k de Paris en 1h38
- * novembre 2016 - avril 2017 : télétravail depuis l’Asie
- * juin 2015 - juin 2016 : Working Holiday Visa en Australie
+* septembre 2018 - aujourd'hui : **traduction de la documentation Python en français, core member de l'équipe de traduction**
+* septembre 2018 - aujourd'hui : contribution à la documentation Python
+* 2013 - 2017 : **contribution à divers projets open-source Python** : uwsgi, django-tastypie, radicale, fabtools
+* septembre 2018 - aujourd'hui : formations bénévoles à Python et à la traduction de la documentation
+* novembre 2016 - mars 2017 : télétravail depuis l’Asie pour SFR
+* juin 2015 - juin 2016 : Working Holiday Visa en Australie
+* running :
+  * 20 kilomètres de Paris en 1h38 (2021)
+  * semi-marathon de Boulogne-Billancourt en 1h47 (2018)
