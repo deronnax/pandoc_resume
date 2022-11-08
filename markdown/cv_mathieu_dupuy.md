@@ -74,6 +74,7 @@ données de contact des 5000+ collaborateurs de SFR
 ### janvier - juin 2010: Smartjog, **développeur Python** (alternance)
 
 * Maintenance et évolution d’outils Python de monitoring et de management de la solution de CDN mondiale de flux vidéos ultra haute définition de Smartjog
+* empaquetage .deb
 
 ### juin - octobre 2009: Mandriva, **développeur C++** (stage)
 
