@@ -3,7 +3,7 @@
 ## Développeur Python
 
 --------------------   ----------------------
-deronnax@gmail.com                     31 ans
+deronnax@gmail.com               19 août 1988
 06.83.71.50.20            58 rue de Montreuil
 [github.com/deronnax]             75011 Paris
 --------------------   ----------------------
@@ -12,14 +12,15 @@ deronnax@gmail.com                     31 ans
 
 ## Compétences
 
-* langages : **Python**, **Javascript**, HTML, CSS, C, C++, assembleur
-* cadriciels : **Django**, **Vue.js**, SQLAlchemy, Qt, GTK
-* bases de données : **MySQL**, SQLite, Redis
-* outils : **Git**, **Docker**, Github, Gitlab, IntelliJ/PyCharm
-* ops : Nginx, Uwsgi, Fabric
-* systèmes : **Ubuntu Server**, Fedora, Windows
-* divers : **HTTP/REST**, **tests**, OAuth, bas-niveau/performances
-* langues : **anglais** (courant, nombreux séjours à l’étranger, TOEIC 770/990 en 2009), allemand scolaire
+ * langages : **Python**, Ruby, Javascript, Shell, C/C++
+ * cadriciels : **Django**, Ruby on Rails
+ * bases de données : PostgreSQL, MySQL, Redis
+ * ops : Docker, Kubernetes, Terraform, Heroku
+ * observabilité : Datadog, New Relic, Sentry
+ * divers : **HTTP/REST**, **Git**, GitHub, Gitlab, PyCharm, tests, connaissances bas-niveau
+ * notions : AWS, Ansible, ElasticSearch, Kibana, HTML, React
+ * langues : **anglais** (courant, échanges totalement en anglais à Doctolib, nombreux séjours à
+l’étranger, TOEIC 770/990 en 2009), allemand scolaire
 
 ## Éducation
 
@@ -29,26 +30,34 @@ deronnax@gmail.com                     31 ans
 
 ## Expériences principales
 
-### septembre 2019: Invivo (via Octo Technology), **développeur Node.JS**
+### mars 2020 - février 2022: Doctolib, **Efficiency Engineer**
+ * Amélioration et maintenance de la CI maison de Doctolib : 35.000+ tests dont 80% end-to-end, répartis et exécutés sur des clusters Kubernetes composés d’instances spot EC2 AWS. Recherche continue de l’amélioration des performances
+ * Amélioration et maintenance de toolings autour du monolithe Ruby on Rails Doctolib et du workflow des développeurs Doctolib en général : détection et auto-skipping des tests flaky, tracking des tests à problèmes, attribution automatique des exceptions sentry, bot d’auto-merge de PRs
+ * Maintenance et interventions ponctuelles et monitoring de l’infrastructure AWS de test et de tooling
 
-Développement back-end et front-end d'une marketplace pour l'agriculture en micro-services en Node.js et Vue.JS dans une équipe de 40 personnes (Node.js, REST, MySQL, OAuth, Vue.js, HTML/CSS)
+(Ruby, Rails, Docker, Kubernetes, Terraform, AWS, Sentry, Kibana)
 
-### septembre 2018 - août 2019: Club Med (via Octo Technology), **développeur Node.JS**
+### septembre 2018 - février 2020: via Octo Technology, **développeur Node.JS**
 
-Développement d’une API REST frontale en Node.js exposant une API unifiée, simplifiée, cohérente et rapide interfaçant une multitude de backends métier historiques (Node.js, REST, Docker, Gherkin)
+ * _Invivo_ : développement back-end d’une marketplace pour l’agriculture en micro-services en Node.js dans une équipe de 40 personnes (Node.js, REST, Docker, MySQL, OAuth)
+ * _Club Med_ : développement d’une API REST frontale en Node.js exposant une API unifiée, simplifiée, cohérente et rapide interfaçant une multitude de backends métier historiques extrêmement endettés techniquement (Node.js, REST, Docker)
 
 ### juin 2013 - octobre 2017: SFR (via Alten), **devop Python**
 
-<!---Au sein du services *Recherche & développement interne* : --->
+ * Connexion de plusieurs API d’entreprises partenaires sur la plate-forme de provisioning des services tiers et de gestion des options et packages des clients mobiles et fixes
+ * Développement d’une solution de pilotage du campus SFR en Django, adossée au serveur Exchange de l’entreprise. Développement de sites web Django pour administrer les ressources du campus SFR
+ * Contributions à des logiciels open-source pour améliorer leur adéquation à nos besoins :
+   * [Radicale], serveur CardDav : amélioration performances afin de rendre capable le service des
+données de contact des 5000+ collaborateurs de SFR
+   * [Fabtools], surcouche haut-niveau pour [Fabric] : correction de bugs
+   * [django-tastypie], framework REST : correction de divers bugs
 
-* Ajout de plusieurs backends sur la plate-forme d'intermédiation des services et de gestion des options et packages des clients mobiles, en Python
-* Développement d’une solution de pilotage du campus SFR en Python/Django, adossée à l’Exchange de l'entreprise et de plusieurs sites web pour administrer les différentes ressources du campus
-* Contributions à de nombreux logiciels open-source pour répondre à nos besoins. Entre autre [Radicale], serveur CardDav, modifié pour améliorer ses performances afin de le rendre capable de servir les données de contacts des 5000+ collaborateurs de SFR, et [Fabtools], outil de déploiement, auquel des fonctionnalités correspondantes à nos usecases ont été rajoutées
+(Python, Django, MySQL, SQLAlchemy, REST, OAuth, HTML/CSS, Ubuntu Server)
 
-(Python, Django, MySQL, SQLAlchemy, REST, HTML/CSS)
-
-[Radicale]: https://radicale.org
+[Radicale]: https://radicale.org/v3.html
 [Fabtools]: https://github.com/fabtools/fabtools
+[Fabric]: https://www.fabfile.org/
+[django-tastypie]: https://github.com/django-tastypie/django-tastypie
 
 ## Autres expériences
 
@@ -68,7 +77,7 @@ Développement d’une API REST frontale en Node.js exposant une API unifiée, s
 
 ### janvier - juin 2010: Smartjog, **développeur Python** (alternance)
 
-* Maintenance et correction d'outils Python de monitoring et de gestion du maillage mondial de serveurs CDN de flux vidéos maison
+* Maintenance et évolution d’outils Python de monitoring et de management de la solution de CDN mondiale de flux vidéos ultra haute définition de Smartjog
 
 ### juin - octobre 2009: Mandriva, **développeur C++** (stage)
 
@@ -81,11 +90,9 @@ Développement d’une API REST frontale en Node.js exposant une API unifiée, s
 
 ## Divers
 
-* septembre 2018 - aujourd'hui : **traduction de la documentation Python en français, core member de l'équipe de traduction**
-* septembre 2018 - aujourd'hui : contribution à la documentation Python
-* 2013 - 2017 : **contribution à divers projets open-source Python : uwsgi, django-tastypie, radicale, fabtools**
-
-* septembre 2018 - aujourd'hui : formations bénévoles à Python et à la traduction de la documentation
-* novembre 2016 - mars 2017 : télétravail depuis l’Asie pour SFR (Thaïlande majoritairement)
-* juin 2015 - juin 2016 : Working Holiday Visa en Australie
-* running : semi-marathon de Boulogne-Billancourt en 1h47 (novembre 2018)
+ * septembre 2018 - novembre 2020 : **traduction de la documentation Python en français**, core member de l’équipe de traduction. Formations bénévoles à Python et à la traduction de la docu- mentation
+ * **contribution à divers projets open-source Python** : uwsgi, django-tastypie, radicale, fabtools
+ * contributions à la documentation officielle de Python
+ * semi-marathon de Boulogne-Billancourt en 1h47, 20k de Paris en 1h38
+ * novembre 2016 - avril 2017 : télétravail depuis l’Asie
+ * juin 2015 - juin 2016 : Working Holiday Visa en Australie
