@@ -83,7 +83,7 @@ données de contact des 5000+ collaborateurs de SFR
 
 ## Divers
 
- * septembre 2018 - novembre 2020 : **traduction de la documentation Python en français**, core member de l’équipe de traduction. Formations bénévoles à Python et à la traduction de la docu- mentation
+ * septembre 2018 - novembre 2020 : **traduction de la documentation Python en français**, core member de l’équipe de traduction. Formations bénévoles à Python et à la traduction de la documentation
  * **contribution à divers projets open-source Python** : uwsgi, django-tastypie, radicale, fabtools
  * contributions à la documentation officielle de Python
  * semi-marathon de Boulogne-Billancourt en 1h47, 20k de Paris en 1h38
