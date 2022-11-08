@@ -61,10 +61,6 @@ données de contact des 5000+ collaborateurs de SFR
 
 ## Autres expériences
 
-### mai 2012 - janvier 2013: Generals Electrics (via Alten), **développeur C++**
-
-* Maintenance et évolution du logiciel d’acquisition et de modélisation 3D d’imagerie médicale
-
 ### mars 2011 - mars 2012: Rentabiliweb, **développeur Python/C++**
 
 * Développement d’un outil de collecte de fichiers de logs de serveurs téléphoniques en C++, de traitement et d’insertion dans une base SQL en temps réel
