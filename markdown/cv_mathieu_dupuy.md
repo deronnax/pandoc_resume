@@ -71,10 +71,6 @@ données de contact des 5000+ collaborateurs de SFR
 * Développement d’un système Python de synchronisation des données de lignes client avec le SI de l'autorité de portabilité des numéros fixes
 * Développement d’outils Python de traitement, statistiques et valorisation de larges volumes de données téléphoniques
 
-### octobre 2010 - février 2011: Assystem, **développeur C++** (alternance)
-
-* Développement d’un logiciel en C++/Qt d’assistance à la conduite avec une équipe d’ingénieurs en traitement du signal pour Renault
-
 ### janvier - juin 2010: Smartjog, **développeur Python** (alternance)
 
 * Maintenance et évolution d’outils Python de monitoring et de management de la solution de CDN mondiale de flux vidéos ultra haute définition de Smartjog
