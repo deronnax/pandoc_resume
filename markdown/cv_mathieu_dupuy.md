@@ -20,7 +20,7 @@ deronnax@gmail.com               19 août 1988
  * divers : **HTTP/REST**, **Git**, **GitHub**, Gitlab, PyCharm, tests, connaissances bas-niveau
  * notions : Flask, SQLAlchemy, AWS, Ansible, Terraform, ElasticSearch, Kibana, Prometheus, OAuth
  * langues : **anglais** courant (échanges totalement en anglais à Doctolib, nombreux séjours à
-l’étranger, TOEIC 930/990 en 2022), allemand scolaire
+l’étranger, TOEIC 980/990 en 2022), allemand scolaire
 
 ## Éducation
 
