@@ -12,14 +12,14 @@ deronnax@gmail.com               19 août 1988
 
 ## Compétences
 
- * langages : **Python**, Ruby, Javascript, Shell, C/C++
- * cadriciels : **Django**, Ruby on Rails
- * bases de données : **PostgreSQL**, MySQL, Redis, SQlite
- * ops : **Docker**, **Heroku**, Kubernetes
- * observabilité : Datadog, Sentry, New Relic
- * divers : **HTTP/REST**, **Git**, **GitHub**, Gitlab, PyCharm, tests, connaissances bas-niveau
- * notions : Flask, SQLAlchemy, AWS, Ansible, Terraform, ElasticSearch, Kibana, Prometheus, OAuth
- * langues : **anglais** courant (échanges totalement en anglais à Doctolib, nombreux séjours à
+* langages : **Python**, Ruby, Javascript, Shell, C/C++
+* cadriciels : **Django**, Ruby on Rails
+* bases de données : **PostgreSQL**, MySQL, Redis, SQlite
+* ops : **Docker**, **Heroku**, Kubernetes
+* observabilité : Datadog, Sentry, New Relic
+* divers : **HTTP/REST**, **Git**, **GitHub**, Gitlab, PyCharm, tests, connaissances bas-niveau
+* notions : Flask, SQLAlchemy, AWS, Ansible, Terraform, ElasticSearch, Kibana, Prometheus, OAuth
+* langues : **anglais** courant (échanges totalement en anglais à Doctolib, nombreux séjours à
 l’étranger, TOEIC 980/990 en 2022), allemand scolaire
 
 ## Éducation
@@ -31,26 +31,27 @@ l’étranger, TOEIC 980/990 en 2022), allemand scolaire
 ## Expériences principales
 
 ### mars 2020 - février 2022: Doctolib, **Efficiency Engineer**
- * Amélioration et maintenance de la CI maison de Doctolib : 35.000+ tests dont 80% end-to-end, répartis et exécutés sur des clusters Kubernetes composés d’instances spot EC2 AWS. Recherche continue de l’amélioration des performances
- * Amélioration et maintenance de toolings autour du monolithe Ruby on Rails Doctolib et du workflow des développeurs Doctolib en général : détection et auto-skipping des tests flaky, tracking des tests à problèmes, attribution automatique des exceptions sentry, bot d’auto-merge de PRs
- * Maintenance et interventions ponctuelles et monitoring de l’infrastructure AWS de test et de tooling
+
+* Amélioration et maintenance de la CI maison de Doctolib : 35.000+ tests dont 80% end-to-end, répartis et exécutés sur des clusters Kubernetes composés d’instances spot EC2 AWS. Recherche continue de l’amélioration des performances
+* Amélioration et maintenance de toolings autour du monolithe Ruby on Rails Doctolib et du workflow des développeurs Doctolib en général : détection et auto-skipping des tests flaky, tracking des tests à problèmes, attribution automatique des exceptions sentry, bot d’auto-merge de PRs
+* Maintenance et interventions ponctuelles et monitoring de l’infrastructure AWS de test et de tooling
 
 (Ruby, Rails, Docker, Kubernetes, Terraform, AWS, Sentry, Kibana)
 
 ### septembre 2018 - février 2020: via Octo Technology, **développeur Node.JS**
 
- * _Invivo_ : développement back-end d’une marketplace pour l’agriculture en micro-services en Node.js dans une équipe de 40 personnes (Node.js, REST, Docker, MySQL, OAuth)
- * _Club Med_ : développement d’une API REST frontale en Node.js exposant une API unifiée, simplifiée, cohérente et rapide interfaçant une multitude de backends métier historiques extrêmement endettés techniquement (Node.js, REST, Docker)
+* _Invivo_ : développement back-end d’une marketplace pour l’agriculture en micro-services en Node.js dans une équipe de 40 personnes (Node.js, REST, Docker, MySQL, OAuth)
+* _Club Med_ : développement d’une API REST frontale en Node.js exposant une API unifiée, simplifiée, cohérente et rapide interfaçant une multitude de backends métier historiques extrêmement endettés techniquement (Node.js, REST, Docker)
 
 ### juin 2013 - octobre 2017: SFR (via Alten), **devop Python**
 
- * Connexion de plusieurs API d’entreprises partenaires sur la plate-forme de provisioning des services tiers et de gestion des options et packages des clients mobiles et fixes
- * Développement d’une solution de pilotage du campus SFR en Django, adossée au serveur Exchange de l’entreprise. Développement de sites web Django pour administrer les ressources du campus SFR
- * Contributions à des logiciels open-source pour améliorer leur adéquation à nos besoins :
-   * [Radicale], serveur CardDav : amélioration performances afin de rendre capable le service des
+* Connexion de plusieurs API d’entreprises partenaires sur la plate-forme de provisioning des services tiers et de gestion des options et packages des clients mobiles et fixes
+* Développement d’une solution de pilotage du campus SFR en Django, adossée au serveur Exchange de l’entreprise. Développement de sites web Django pour administrer les ressources du campus SFR
+* Contributions à des logiciels open-source pour améliorer leur adéquation à nos besoins :
+  * [Radicale], serveur CardDav : amélioration performances afin de rendre capable le service des
 données de contact des 5000+ collaborateurs de SFR
-   * [Fabtools], surcouche haut-niveau pour [Fabric] : correction de bugs
-   * [django-tastypie], framework REST : correction de divers bugs
+  * [Fabtools], surcouche haut-niveau pour [Fabric] : correction de bugs
+  * [django-tastypie], framework REST : correction de divers bugs
 
 (Python, Django, MySQL, SQLAlchemy, REST, OAuth, HTML/CSS, Ubuntu Server)
 
