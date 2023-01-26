@@ -30,6 +30,14 @@ l’étranger, TOEIC 980/990 en 2022), allemand scolaire
 
 ## Expériences principales
 
+### février 2022 - octobre 2022 : Critizr, **Core Engineer**
+
+* Streamlining du processus de développement et des livraisons de fonctionnalités pour les développeurs, initiation aux bonnes pratiques (plus de tests automatisés, mocking, utilisation de factories, tests end-to-end)
+* Amélioration du pipeline CI (tests et création d'images docker)
+* Mise à jour progressive de la pile technique endettée
+
+(Python, Django, Github Actions, Docker)
+
 ### mars 2020 - février 2022: Doctolib, **Efficiency Engineer**
 
 * Amélioration et maintenance de la CI maison de Doctolib : 35.000+ tests dont 80% end-to-end, répartis et exécutés sur des clusters Kubernetes composés d’instances spot EC2 AWS. Recherche continue de l’amélioration des performances
@@ -37,6 +45,8 @@ l’étranger, TOEIC 980/990 en 2022), allemand scolaire
 * Maintenance et interventions ponctuelles et monitoring de l’infrastructure AWS de test et de tooling
 
 (Ruby, Rails, Docker, Kubernetes, Terraform, AWS, Sentry, Kibana)
+
+<div style="page-break-after: always;"></div>
 
 ### septembre 2018 - février 2020: via Octo Technology, **développeur Node.JS**
 
@@ -67,11 +77,6 @@ données de contact des 5000+ collaborateurs de SFR
 * Développement d’un outil de collecte de fichiers de logs de serveurs téléphoniques en C++, de traitement et d’insertion dans une base SQL en temps réel
 * Développement d’un système Python de synchronisation des données de lignes client avec le SI de l'autorité de portabilité des numéros fixes
 * Développement d’outils Python de traitement, statistiques et valorisation de larges volumes de données téléphoniques
-
-### janvier - juin 2010: Smartjog, **développeur Python** (alternance)
-
-* Maintenance et évolution d’outils Python de monitoring et de management de la solution de CDN mondiale de flux vidéos ultra haute définition de Smartjog
-* Empaquetage .deb
 
 ### juin - octobre 2009: Mandriva, **développeur C++** (stage)
 
