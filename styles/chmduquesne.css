@@ -54,8 +54,8 @@ h2:before {
 /* } */
 
 h3 { 
-    font-weight:normal; 
-    margin-bottom: 8px;
+    /* font-weight:normal;  */
+    /* margin-bottom: 8px; */
     }
 
 /* Definitions */
@@ -90,7 +90,10 @@ a:hover, a:active {
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
 }
-
+a:visited
+{
+    color: #397249
+}
 /* Horizontal separators */
 hr {
     color: #A6A6A6;

@@ -18,7 +18,7 @@ deronnax@gmail.com             August 19, 1988
 * ops: **Docker**,  **GitHub Actions**, Heroku, Kubernetes
 * monitoring: Datadog, Sentry, Prometheus
 * misc: HTTP/REST, Git, automated testing & low-level knowledge
-* spoken languages: **fluent english** (TOEIC 980/990 in 2022, English-only environment in Doctolib, numberous stays abroad), scholar
+* spoken languages: **fluent english** (TOEIC 980/990 in 2022, English-only environment in Doctolib, numerous stays abroad), scholar
 German
 
 ## Education
@@ -51,22 +51,22 @@ and notification bot
 
 * backend Node.js development for *Club Med* and *Invivo*. Some REST micro-services, some Docker.
 
-### June 2013 - October 2017: SFR (via Alten), **Python devop**
+### June 2013 - October 2017: SFR (via Alten), **Python DevOps**
 
 * Development on a many small size in-house service website in django for the SFR campus, such as visitor access management, meeting room booking, campus' devices defects reporting, ect
-* Work on many in-house MVP such as mass-mailing marketing solution or a tracking solution like airtags (evnetually cancelled for privacy problems)
+* Work on many in-house MVP such as mass-mailing marketing solution or a tracking solution (like an airtag ; eventually cancelled for privacy problems)
 * Deployments of python projects on Ubuntu Server VMs
-* Many contributions to [Radicale], a python CardDav server, to improve its stability, its conformance to standard and its performance (make it able to serve SFR's 5,000 contacts at once)
+* introduction to better development practices: setup a CI for all the department python projects, introduced developers to mocking, fixed non-determinism in test suite of the biggest project (1000 tests)
+* deployment of those projects on our on-premise Ubuntu Server VMs fleet
+* contribution to many open-source projects we used related to CardDav, OAuth and REST (see *contribution* at the bottom)
 
-[Radicale]: https://radicale.org/v3.html
+(Python, Django, SQL, REST, OAuth, HTML/CSS, Ubuntu Server)
 
-(Python, Django, MySQL, SQLAlchemy, REST, OAuth, HTML/CSS, Ubuntu Server)
+#### March 2011 - March 2012: Rentabiliweb, **Python/C++ developer**
 
-### March 2011 - March 2012: Rentabiliweb, **Python/C++ developer**
+Development of a C++ system for real-time collecting, processing and storing large volumes of call records logs of our B2B [PABX]/VoIP systems fleet, development of Python tools to generate bills for our customers. Development of python tools to synchronize with the French Landline Number Operator Ownership directory (the *APNF*)
 
-Development of a C++ system for collecting, processing and storing large volumes of call records logs in real-time
-Development of Python tools for processing, making statistics and issuing bills from those large volume of call records
-Development of a Python system for synchronizing customers landline informations with the system of the landlines phone numbers portability authority
+[PABX]: https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange
 
 #### October 2010 - February 2011: Assystem, **C++ developer** (apprenticeship)
 
@@ -86,16 +86,21 @@ Development of a graphical software for editing and organizing user's semantic t
 
 ## Miscellaneous
 
-* September 2018 - Present: **french translation of Python documentation, former core member of the translation team**
-* September 2018 - present: contribution to the Python documentation
-* 2013 - 2017 : **decent amount of PRs to various Python open-source projects**: [uwsgi], [django-tastypie], [radicale], [fabtools]
+* September 2018 - Present: **[french translation of Python documentation], former core member of the translation team**
+* September 2018 - present: [contributions to the Python documentation]
+* 2013 - 2017 : **code contribution to various Python open-source projects**: [uwsgi], [django-tastypie], [Radicale]
+[and many others, including django-cms, requests & fabtools]
 * September 2018 - present: volunteer trainings in Python and documentation translation
-* November 2016 - March 2017: working remotely from Asia for SFR
+* November 2017 - July 2018: backpacking through Southeast Asia
+* November 2016 - March 2017: working remotely from Thailand for SFR
 * June 2015 - June 2016: Working Holiday Visa in Australia
-* running :
+* running:
   * 20 kilometers of Paris in 1h38 (2021)
   * Boulogne-Billancourt half-marathon in 1h47 (2018)
 
-[Fabtools]: https://github.com/fabtools/fabtools
-[uwsgi]: https://github.com/unbit/uwsgi
-[django-tastypie]: https://github.com/django-tastypie/django-tastypie
+[french translation of Python documentation]: https://github.com/python/python-docs-fr/pulls?q=is%3Apr+author%3Aderonnax
+[contributions to the Python documentation]: https://github.com/python/cpython/pulls?q=is%3Apr+author%3Aderonnax
+[uwsgi]: https://github.com/unbit/uwsgi/pull/661
+[django-tastypie]: https://github.com/django-tastypie/django-tastypie/pull/1070
+[Radicale]: https://github.com/Kozea/Radicale/commits?author=deronnax
+[and many others, including django-cms, requests & fabtools]: https://github.com/pulls?page=2&q=is%3Apr+author%3Aderonnax+archived%3Afalse+-repo%3Apython%2Fcpython+-repo%3Apython%2Fpython-docs-fr+-repo%3AKozea%2Fradicale
