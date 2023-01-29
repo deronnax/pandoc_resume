@@ -68,22 +68,6 @@ Development of a C++ system for real-time collecting, processing and storing lar
 
 [PABX]: https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange
 
-#### October 2010 - February 2011: Assystem, **C++ developer** (apprenticeship)
-
-Development of a driver assistance software in C++/Qt with a team of signal processing engineers
-
-#### January - June 2010: Smartjog, **Python developer** (apprenticeship)
-
-Work on in-house monitoring tools in Python for the global network of CDN video stream servers, .deb packaging
-
-#### June - October 2009: Mandriva, **C++ developer** (internship)
-
-Development of plugins/patches around the [Nepomuk] project in order to turn the KDE desktop into a [semantic desktop],
-Development of a graphical software for editing and organizing user's semantic tags, RPM packaging
-
-[Nepomuk]: https://en.wikipedia.org/wiki/NEPOMUK_(software)
-[semantic desktop]: https://en.wikipedia.org/wiki/Semantic_desktop
-
 ## Miscellaneous
 
 * September 2018 - Present: **[french translation of Python documentation], former core member of the translation team**
