@@ -11,3 +11,4 @@ services:
     image: resume-make
     volumes:
       - .:/home/app/resume:z
+    platform: linux/amd64
