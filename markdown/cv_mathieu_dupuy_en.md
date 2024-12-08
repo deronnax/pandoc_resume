@@ -15,10 +15,10 @@ deronnax@gmail.com             August 19, 1988
 * languages: **Python**, Ruby, Javascript, Shell, C/C++
 * framework: **Django**, Ruby on Rails
 * databases: **PostgreSQL**, MySQL, Redis
-* ops: **Docker**,  **GitHub Actions**, Heroku, Kubernetes
-* monitoring: Datadog, Sentry, Prometheus
-* misc: HTTP/REST, Git, automated testing & low-level knowledge
-* spoken languages: **fluent english** (TOEIC 980/990 in 2022, English-only environment in Doctolib, numerous stays abroad), scholar
+* ops: **Docker**, **GitHub Actions**, **Gitlab-CI**, Kubernetes, Terraform
+* monitoring: **Datadog**, Prometheus
+* misc: REST, Git, automated testing, Python packaging
+* spoken languages: **fluent English** (TOEIC 980/990 in 2022, English-only environment in Doctolib, numerous stays abroad), scholar
 German
 
 ## Education
@@ -39,7 +39,7 @@ German
 * Developer support on Slack and IRL about DevEff subjects
 * Misc: python packaging, contributions to python open-source projects (especially related to packaging), Datadog monitoring, shell scripting, some AWS, some Terraform
 
-(Python, Django, Gitlab-CI, Docker, Kubernetes, Datadog, AWS, Terraform, Sentry)
+(Python, Django, Gitlab-CI, Docker, Kubernetes, Datadog, AWS, Terraform)
 
 ### February 2022 - October 2022 : Critizr, **Core Engineer**
 
@@ -57,7 +57,7 @@ mocking, use of factories, end-to-end tests)
 and notification bot
 * occasional interventions on Doctolib's tooling AWS infrastructure (S3, EKS, ECR)
 
-(Ruby, Ruby on Rails, Docker, Kubernetes, Terraform, AWS, Sentry)
+(Ruby, Ruby on Rails, Docker, Kubernetes, Terraform, AWS, Heroku)
 
 ### September 2018 - February 2020: Octo Technology, **Node.JS developer**
 
@@ -66,13 +66,13 @@ and notification bot
 ### June 2013 - October 2017: SFR (via Alten), **Python DevOps**
 
 * Development on a many small size in-house service website in django for the SFR campus, such as visitor access management, meeting room booking, campus' devices defects reporting, ect
-* Work on many in-house MVP such as mass-mailing marketing solution or a tracking solution (like an airtag ; eventually cancelled for privacy problems)
+* Work on many in-house MVP such as mass-mailing marketing solution or a tracking solution (like airtag ; eventually cancelled for privacy problems)
 * Deployments of python projects on Ubuntu Server VMs
 * introduction to better development practices: setup a CI for all the department python projects, introduced developers to mocking, fixed non-determinism in test suite of the biggest project (1000 tests)
 * deployment of those projects on our on-premise Ubuntu Server VMs fleet
 * contribution to many open-source projects we used related to CardDav, OAuth and REST (see *contribution* at the bottom)
 
-(Python, Django, SQL, REST, OAuth, HTML/CSS, Ubuntu Server)
+(Python, Django, SQL, REST, HTML/CSS, Fabric app deployment)
 
 #### March 2011 - March 2012: Rentabiliweb, **Python/C++ developer**
 
@@ -82,7 +82,7 @@ Development of a C++ system for real-time collecting, processing and storing lar
 
 ## Miscellaneous
 
-* September 2018 - Present: **[french translation of Python documentation], former core member of the translation team**
+* September 2018 - Present: **[French translation of Python documentation], former core member of the translation team**
 * September 2018 - present: [contributions to the Python documentation]
 * 2013 - 2017 : **code contribution to various Python open-source projects**: [uwsgi], [django-tastypie], [Radicale]
 [and many others, including django-cms, requests & fabtools]
