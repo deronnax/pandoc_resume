@@ -29,6 +29,18 @@ German
 
 ## Main experiences
 
+### April 2023 - Present : GitGuardian, **Developer Efficiency Engineer**
+
+* Everything Continuous Integrations related: test suite grooming and speed, fixing broken jobs, automating everything
+  that could be, deployed and maintained renovate bot, python packages upgrade, maintained our review-apps infrastructure
+* Dockerization of our products
+* Deployment and maintenance of our CI/deployment custom tools
+* Local developer experience (getting the stack installed)
+* Developer support on Slack and IRL about DevEff subjects
+* Misc: python packaging, contributions to python open-source projects (especially related to packaging), Datadog monitoring, shell scripting, some AWS, some Terraform
+
+(Python, Django, Gitlab-CI, Docker, Kubernetes, Datadog, AWS, Terraform, Sentry)
+
 ### February 2022 - October 2022 : Critizr, **Core Engineer**
 
 * Streamlining of the development process and feature delivery for developers, initiation to tests' best practices (more automated testing,
